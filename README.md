@@ -3,6 +3,7 @@
 Programmer | Technical Research | AI Systems
 
 ## AI & LLM Development
+- ai-proxy-vote
 - rag-agronomy
 
 ## Web Scraping/ Data Aquisition/ Data Cleaing
