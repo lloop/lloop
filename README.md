@@ -3,13 +3,12 @@
 Programmer | Technical Research | AI Systems
 
 ## AI & LLM Development
-- Project A
-- Project B
-- RAG experiments
+- rag-agronomy
 
-## Python
-- Project C
-- Project D
+## Web Scraping/ Data Aquisition/ Data Cleaing
+- job-skills-analytics
+- dia-daily-data
+- clean-dataset
 
 ## Web Development
 - PHP
